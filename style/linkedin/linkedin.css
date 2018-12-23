@@ -1,0 +1,26 @@
+.feed-right-rail.right-rail {
+    display: none;
+}
+
+.sticky.ember-view {
+    display: none;
+}
+
+.ad-banner-container {
+    display: none;
+}
+
+.ember-view img, .feed-shared-article, .feed-shared-image__container, .eed-shared-image, .feed-shared-linkedin-video, .video-s-loader__overlay--with-frosted,.video-s-loader__background-poster {
+    width: 50px;
+    height: 50px
+;
+}
+
+.premium-upsell-link {
+    display: none;
+}
+
+.feed-identity-module__default-bg {
+    background-image: none ;
+}
+
