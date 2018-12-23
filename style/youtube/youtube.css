@@ -1,15 +1,22 @@
-div.style-scope.ytd-shelf-renderer {
-    display: none;
-}
-
 #continuations {
-    display: none;
+    display: none
+;
 }
 
 #end {
-    display: none; 
+    display: none 
+;
+}
+
+div.style-scope.ytd-shelf-renderer {
+    display: none;
 }
 
 yt-icon-button.style-scope.ytd-topbar-menu-button-renderer.style-default {
     display: none;
 }
+
+#secondary {
+    visibility: hidden;
+}
+
