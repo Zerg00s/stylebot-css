@@ -1,0 +1,29 @@
+# Makes facebook less distracting:
+
+![](facebook.png)
+
+
+
+## .css
+```css
+#pagelet_canvas_nav_content{
+    display:none;
+}
+
+.egoOrganicColumn{
+    display:none;   
+}
+
+#sideNav{
+    display:none;
+}
+
+#rightCol{
+    visibility:hidden;
+}
+
+.fbChatSidebar{
+    display:none;
+}
+
+```
